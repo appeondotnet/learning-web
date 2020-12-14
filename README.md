@@ -18,7 +18,7 @@
 * [Flutter](https://flutter.cn)：使用 [Dark](https://dart.cn) 语言，国内闲鱼有实践，另有 [Codelabs 教程](https://codelabs.flutter-io.cn) 方便入门
 
 ## 桌面跨平台解决方案
-Electron：electronjs.org，目前比较大的案例是 VSCode
+[Electron](https://electronjs.org)：目前比较大的案例是 VSCode
 
 ## .NET 方案
 [Blazor(wasm)](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)：使用 Razor 语法，封装得非常好，代码优雅，非常符合 .NET 开发习惯， 有企业级 UI [Ant Design Blazor](https://ant-design-blazor.gitee.io) 可用。
